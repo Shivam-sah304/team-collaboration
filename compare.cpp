@@ -22,4 +22,4 @@ int main(){
         cout<<"c1 is greater than c2"<<endl;
     }
 }
-hi mr shivam
+//hello shivam don
